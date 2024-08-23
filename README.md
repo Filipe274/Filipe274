@@ -3,8 +3,7 @@
 - 🧑🏻‍🏫 Aluno de Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻 Perfil destinado às minhas aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe274
-&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe274&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe274
 &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
